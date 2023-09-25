@@ -36,4 +36,4 @@
 1. 后台系统采用：[光年后台系统](https://gitee.com/yinqi/Light-Year-Admin-Template?_from=gitee_search)
 2. 默认背景图片来自：wallpaper的chill ocean壁纸
 3. 随机图片API来自：[https://imgapi.cn/](https://imgapi.cn/)
-4. 图片压缩来自:[https://docsmall.com/](https://docsmall.com/)** 
+4. 图片压缩来自:[https://docsmall.com/](https://docsmall.com/)
